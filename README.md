@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JLPennino
 - 👀 I’m interested in everything technology! However, I'm most passionate about venturing into the IoT within my future career and changing the world, one step at a time. 
-- 🌱 I’m currently studying a Computer Science Degree at University and current in my Second Year!
+- 🌱 I’m currently studying a Computer Science Degree at University and currently in my Final Year!
 - 💞️ I’m looking to collaborate on absolutely anything, I'm always down to attempt things I've never tried or learnt before. 
 - 📫 You can get in contact with me via email at jamyep@sky.com many thanks!
 
